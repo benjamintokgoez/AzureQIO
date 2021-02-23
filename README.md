@@ -1,6 +1,7 @@
 # AzureQIO
-This repo contains samples and helper functions to work easily with Azure Quantum QIO projects
+This repo contains samples and helper functions to demonstrate how easily it is to work with Azure Quantum - quantum inspired optimization.
 
 
-To see how a sample run can work just run e.g. runMineralWeightQIO.py.
+To see how a sample run can work just look at e.g. runMineralWeightQIO.py.
+
 For mor information see the inline comments.
